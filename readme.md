@@ -1,38 +1,37 @@
-# 🌐 Portafolio Web – Giovanni Escoto
+# 🌐 Web Portfolio – Giovanni Escoto
 
-Este proyecto es un **portafolio web personal** desarrollado para presentar el perfil profesional y los proyectos de **Giovanni Escoto**, Web Developer.
+This project is a **personal web portfolio** developed to showcase the professional profile and projects of **Giovanni Escoto**, Web Developer.
 
-## 🛠️ Tecnologías
+## 🛠️ Technologies
 
-* HTML5
-* CSS3
-* JavaScript
+* HTML5  
+* CSS3  
+* JavaScript  
 
-## 📌 Descripción
+## 📌 Description
 
-El sitio incluye:
+The site includes:
 
-* Barra de navegación responsive.
-* Sección principal (*Hero*) con presentación profesional.
-* Listado de proyectos destacados con descripción, tecnologías y enlaces a GitHub.
-* Modal interactivo para ampliar imágenes.
-* Footer con información académica y derechos de autor.
+* Responsive navigation bar.  
+* Main (*Hero*) section with a professional introduction.  
+* List of featured projects with descriptions, technologies, and GitHub links.  
+* Interactive modal to enlarge images.  
+* Footer with academic information and copyright details.  
 
-## 📂 Estructura básica
+## 📂 Basic Structure
 
-```
 index.html
 css/styles.css
 js/script.js
 images/
-```
 
-## 🚀 Uso
 
-1. Clona o descarga el proyecto.
-2. Abre `index.html` en tu navegador.
-3. Navega por los proyectos y accede a sus repositorios en GitHub.
+## 🚀 Usage
+
+1. Clone or download the project.  
+2. Open `index.html` in your browser.  
+3. Browse the projects and access their GitHub repositories.  
 
 ---
 
-📎 *Portafolio ideal para mostrar habilidades en desarrollo web front-end y proyectos personales de forma profesional.*
+📎 *An ideal portfolio to professionally showcase front-end web development skills and personal projects.*
